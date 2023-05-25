@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: (https://makvalaa.github.io/Product-Preview-Card-Component/)
+- Live Site URL: (https://makvalaa.github.io/Product-Preview-Card-Component2/)
 
 ## My process
 
@@ -38,7 +38,7 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-
+- BEM naming convention
 ## Author
 
 - Frontend Mentor - [@makvalaa](https://www.frontendmentor.io/profile/Makvalaa)

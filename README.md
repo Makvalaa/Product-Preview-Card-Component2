@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: (https://makvalaa.github.io/Product-Preview-Card-Component2/)
+- Live Site URL: (https://ani-menaphire.github.io/Product-Preview-Card-Component2/)
 
 ## My process
 
